@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://slackfrontend-tqf7699.slack.com/",
+    "testFiles":"**/slack/*",
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "chromeWebSecurity": false 
+}
